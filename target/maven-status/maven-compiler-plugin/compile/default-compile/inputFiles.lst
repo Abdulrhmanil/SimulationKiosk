@@ -1,0 +1,17 @@
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/simulation/Devices.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/ui/SimulationController.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/simulation/SimulationApp.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/kiosk_problems/Problems.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/ui/Main.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/ui/AddEditKioskController.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/dataclasses/Kiosk.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/simulation/LocalServer.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/simulation/KioskDevice.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/ui/reactions/AddingKioskListener.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/ui/reactions/AddingServerListener.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/ui/AddEditServerController.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/dataclasses/KioskExceptions.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/kiosk_problems/ProblemType.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/serverconfiguration/ServerConfiguration.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/kiosk_problems/ProblemColor.java
+/Users/Abdulrhmanil/Desktop/SimulationKiosk/src/main/java/simulation/KioskReportSimulator.java
